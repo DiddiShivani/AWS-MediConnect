@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mediconnect-dev-34d83-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712968758:role/amplify-mediconnect-dev-34d83-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712968758:role/amplify-mediconnect-dev-34d83-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mediconnect-dev-34d83-deployment",
+      "UnauthRoleName": "amplify-mediconnect-dev-34d83-unauthRole",
+      "StackName": "amplify-mediconnect-dev-34d83",
+      "StackId": "arn:aws:cloudformation:us-east-1:339712968758:stack/amplify-mediconnect-dev-34d83/752b0210-4fc1-11ef-8c1e-1210aa36580f",
+      "AmplifyAppId": "dfer9uve23t8k"
+    },
+    "categories": {
+      "auth": {
+        "mediconnecta5dbd957": {}
+      }
+    }
+  }
+}
